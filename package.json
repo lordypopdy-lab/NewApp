@@ -2,6 +2,7 @@
   "name": "newapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lordypopdy-lab.github.io/NewApp/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
